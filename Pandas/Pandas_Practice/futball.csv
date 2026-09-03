@@ -1,0 +1,26 @@
+,Player,Team,League,Position,Matches,Goals,Assists,Shots,Passes_Attempted,Passes_Completed,Minutes
+0,Mohamed Salah,Liverpool,Premier League,Forward,38,29,18,130,1450,1130,3378
+1,Erling Haaland,Manchester City,Premier League,Forward,31,22,3,105,610,480,2773
+2,Cole Palmer,Chelsea,Premier League,Midfielder,37,15,8,126,1740,1450,3150
+3,Bukayo Saka,Arsenal,Premier League,Forward,25,6,10,65,1120,920,2100
+4,Alexander Isak,Newcastle United,Premier League,Forward,34,23,6,92,720,580,2750
+5,Bruno Fernandes,Manchester United,Premier League,Midfielder,36,8,10,104,2100,1680,3100
+6,Kylian Mbappe,Real Madrid,La Liga,Forward,34,31,3,150,980,790,2900
+7,Vinicius Junior,Real Madrid,La Liga,Forward,30,11,8,82,1050,840,2400
+8,Jude Bellingham,Real Madrid,La Liga,Midfielder,31,9,8,70,1650,1450,2600
+9,Lamine Yamal,Barcelona,La Liga,Forward,35,9,13,90,1600,1300,2850
+10,Raphinha,Barcelona,La Liga,Forward,36,18,9,112,1450,1160,2900
+11,Robert Lewandowski,Barcelona,La Liga,Forward,34,27,2,108,650,510,2750
+12,Harry Kane,Bayern Munich,Bundesliga,Forward,31,26,8,110,1030,850,2700
+13,Jamal Musiala,Bayern Munich,Bundesliga,Midfielder,25,12,3,68,1100,910,1900
+14,Michael Olise,Bayern Munich,Bundesliga,Forward,34,12,15,91,1540,1270,2750
+15,Florian Wirtz,Bayer Leverkusen,Bundesliga,Midfielder,31,10,12,75,1720,1410,2500
+16,Serhou Guirassy,Borussia Dortmund,Bundesliga,Forward,30,21,3,87,620,480,2350
+17,Patrik Schick,Bayer Leverkusen,Bundesliga,Forward,31,21,1,73,480,360,1900
+18,Mateo Retegui,Atalanta,Serie A,Forward,36,25,8,102,590,440,2700
+19,Marcus Thuram,Inter Milan,Serie A,Forward,36,14,4,81,760,590,2750
+20,Lautaro Martinez,Inter Milan,Serie A,Forward,31,12,3,89,690,540,2350
+21,Moise Kean,Fiorentina,Serie A,Forward,32,19,3,94,570,420,2500
+22,Ademola Lookman,Atalanta,Serie A,Forward,31,15,5,88,820,640,2300
+23,Ousmane Dembele,Paris Saint-Germain,Ligue 1,Forward,29,21,6,100,1250,1010,2200
+24,Bradley Barcola,Paris Saint-Germain,Ligue 1,Forward,34,14,10,79,1120,900,2450
